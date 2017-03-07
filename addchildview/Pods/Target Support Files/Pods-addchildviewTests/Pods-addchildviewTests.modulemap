@@ -1,0 +1,6 @@
+framework module Pods_addchildviewTests {
+  umbrella header "Pods-addchildviewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
